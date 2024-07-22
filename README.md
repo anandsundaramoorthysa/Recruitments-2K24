@@ -1,6 +1,6 @@
 # Recruitments-2K24
 
-Recruitments-2K24 is an open-source web-based project developed by [Your Name](https://github.com/a1n13a1n13d4) and [Santhosh Kumar H](https://github.com/aspersanthosh29). This project is designed to streamline the recruitment process, providing a user-friendly interface for managing job applications and candidate information.
+Recruitments-2K24 is an open-source web-based project developed by [ANAND SUNDARAMOORTHY](https://github.com/a1n13a1n13d4) and [Santhosh Kumar H](https://github.com/aspersanthosh29). This project is designed to streamline the recruitment process, providing a user-friendly interface for managing job applications and candidate information.
 
 ## Table of Contents
 - [Description](#description)
