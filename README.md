@@ -1,6 +1,6 @@
 # Recruitments-2K24
 
-Recruitments-2K24 is an open-source web-based project developed by [ANAND SUNDARAMOORTHY](https://github.com/a1n13a1n13d4) and [Santhosh Kumar H](https://github.com/aspersanthosh29). This project is designed to streamline the recruitment process, providing a user-friendly interface for managing job applications and candidate information.
+Recruitments-2K24 is an open-source web-based project developed by [ANAND SUNDARAMOORTHY](https://github.com/a1n13a1n13d4) and [Santhosh Kumar H](https://github.com/aspersanthosh29). This project showcases the details of company recruitment processes, including where, when, and job specifics. For more details, visit the full webpage at [Recruitments-2K24 Live](https://vercel.com/symposium-2k24s-projects/recruitments-2k24).
 
 ## Table of Contents
 - [Description](#description)
@@ -13,7 +13,7 @@ Recruitments-2K24 is an open-source web-based project developed by [ANAND SUNDAR
 - [Contact](#contact)
 
 ## Description
-Recruitments-2K24 is a simple yet effective platform that helps organizations manage their recruitment process. Built using HTML, CSS, Bootstrap, and JavaScript, this project aims to enhance the efficiency of handling job applications and candidate details.
+Recruitments-2K24 is a simple yet effective platform that showcases company recruitment details, including where, when, and job specifics. Built using HTML, CSS, Bootstrap, and JavaScript, this project provides an overview of the recruitment processes. For more details, check the full webpage.
 
 ## Features
 - **Job Listings:** Easily add, edit, and delete job postings.
@@ -64,7 +64,9 @@ We welcome contributions from the community! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-- [S.Anand](https://github.com/a1n13a1n13d4)
+- [ANAND SUNDARAMOORTHY](https://github.com/a1n13a1n13d4)
 - [Santhosh Kumar H](https://github.com/aspersanthosh29)
+- [LinkedIn](https://www.linkedin.com/in/anands37/)
+- Email: sanand@gmail.com (Subject: About Recruitments 2K24 project)
 
 Feel free to reach out if you have any questions or suggestions!
