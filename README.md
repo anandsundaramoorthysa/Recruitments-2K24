@@ -66,7 +66,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 - [Anand Sundaramoorthy](https://github.com/a1n13a1n13d4)
 - [Santhosh Kumar H](https://github.com/aspersanthosh29)
-- [LinkedIn](https://www.linkedin.com/in/anands37/)
+- [My LinkedIn](https://www.linkedin.com/in/anands37/)
+- [Santhosh Kumar H LinkedIn](https://www.linkedin.com/in/santhosh-kumar-3a436a244/)
 - Email: sanand@gmail.com (Subject: About Recruitments 2K24 project)
 
 Feel free to reach out if you have any questions or suggestions!
