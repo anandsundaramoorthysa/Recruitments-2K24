@@ -1,6 +1,6 @@
 # Recruitments-2K24
 
-Recruitments-2K24 is an open-source web-based project developed by [ANAND SUNDARAMOORTHY](https://github.com/a1n13a1n13d4) and [Santhosh Kumar H](https://github.com/aspersanthosh29). This project showcases the details of company recruitment processes, including where, when, and job specifics. For more details, visit the full webpage at [Recruitments-2K24 Live] (https://recruitments-2k24.vercel.app/).
+Recruitments-2K24 is an open-source web-based project developed by [Anand Sundaramoorthy](https://github.com/a1n13a1n13d4) and [Santhosh Kumar H](https://github.com/aspersanthosh29). This project showcases the details of company recruitment processes, including where, when, and job specifics. For more details, visit the full webpage at [Recruitments-2K24 Live](https://recruitments-2k24.vercel.app/).
 
 ## Table of Contents
 - [Description](#description)
@@ -64,7 +64,7 @@ We welcome contributions from the community! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-- [ANAND SUNDARAMOORTHY](https://github.com/a1n13a1n13d4)
+- [Anand Sundaramoorthy](https://github.com/a1n13a1n13d4)
 - [Santhosh Kumar H](https://github.com/aspersanthosh29)
 - [LinkedIn](https://www.linkedin.com/in/anands37/)
 - Email: sanand@gmail.com (Subject: About Recruitments 2K24 project)
