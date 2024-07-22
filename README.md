@@ -1,6 +1,3 @@
-Here's a detailed `README.md` file for your project:
-
-```markdown
 # Recruitments-2K24
 
 Recruitments-2K24 is an open-source web-based project developed by [Your Name](https://github.com/a1n13a1n13d4) and [Santhosh Kumar H](https://github.com/aspersanthosh29). This project is designed to streamline the recruitment process, providing a user-friendly interface for managing job applications and candidate information.
@@ -67,10 +64,7 @@ We welcome contributions from the community! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-- [Your Name](https://github.com/a1n13a1n13d4)
+- [S.Anand](https://github.com/a1n13a1n13d4)
 - [Santhosh Kumar H](https://github.com/aspersanthosh29)
 
 Feel free to reach out if you have any questions or suggestions!
-```
-
-Feel free to customize this `README.md` file further to suit your specific project details.
